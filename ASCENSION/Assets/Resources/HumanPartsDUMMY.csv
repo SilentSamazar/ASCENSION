@@ -1,0 +1,50 @@
+TABLE,Human,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Slot,ID,Name,Description,MOL,MAL,COL,CAL,Press,Squat,Grip,Speed,Agile,Deft,Alert,Reflex,Spatial,Stress,PainTol,EmoCon,CritThink,Charm,Threat,Diplo,Wake,Metabol,VisDist,VisDet,IR,UV,XRay,VisLit,Lifespan,CMalf,Tough,IsOrg
+Brain Stem,0,Human Brainstem,A boring old human Brain Stem.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,5200,2258,0,1
+Cerebellum,2,Human Cerebellum,A boring old human Cerebellum.,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Frontal Lobe,4,Human Frontal Lobe,A boring old human Frontal Lobe.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,10,10,5,10,0,0,0,0,0,0,0,0,5200,2258,0,1
+Parietal Lobe,6,Human Parietal Lobe,A boring old human Parietal Lobe.,0,0,1,0,0,0,0,0,0,0,0,0,20,0,8,0,0,0,0,10,0,0,0,0,0,0,0,0,5200,2258,0,1
+Occipital Lobe,8,Human Occipital Lobe,A boring old human Occipital Lobe.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,5200,2258,0,1
+Temporal Lobe,10,Human Temporal Lobe,A boring old human Temporal Lobe.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,10,0,0,0,0,0,0,0,0,5200,2258,0,1
+Hypothalamus,12,Human Hypothalmus,A boring old human Hypothalamus.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,5200,2258,0,1
+Pituitary Gland,14,Human Pituitary Gland,A boring old human Pituitary Gland.,0,0,1,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Pineal Gland,16,Human Pineal Gland,A boring old human Pineal Gland.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,5200,2258,0,1
+Thalamus,18,Human Thalamus,A boring old human Thalamus.,0,0,1,0,0,0,0,0,0,0,10,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Basal Ganglia,20,Human Basal Ganglia,A boring old human Basal Ganglia.,0,0,1,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Limbic System,22,Human Limbic System,A boring old human Limbic System.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,5,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Heart,24,Human Heart,A boring old human Heart.,45,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Lungs,28,Human Lungs,A boring old human Lungs.,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Stomach,31,Human Stomach,A boring old human Stomach.,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,5200,2258,0,1
+Intestines,34,Human Intestines,A boring old human Intestines.,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,5200,2258,0,1
+Adrenal Gland,37,Human Adrenal Gland,A boring old human Adrenal Gland.,0,0,1,0,2,2,2,2,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Thyroid,40,Human Thyroid,A boring old human Thyroid.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,5200,2258,0,1
+Spine,43,Human Spine,A boring old human Spine.,0,10,0,0,0,20,0,0,2,0,0,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Skull,46,Human Skull,A boring old human Skull.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Humerus,48,Human Right Humerus,A boring old human Right Humerus.,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Humerus,50,Human Left Humerus,A boring old human Left Humerus.,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Radius and Ulna,52,Human Right Radius and Ulna,A boring old human Right Radius and Ulna.,0,0,0,0,20,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Radius and Ulna,54,Human Left Radius and Ulna,A boring old human Left Radius and Ulna.,0,0,0,0,20,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Femur,56,Human Right Femur,A boring old human Right Femur.,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Femur,58,Human Left Femur,A boring old human Left Femur.,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Tibia and Fibula,60,Human Right Tibia and Fibula,A boring old human Right Tibia and Fibula.,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Tibia and Fibula,62,Human Left Tibia and Fibula,A boring old human Left Tibia and Fibula.,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Rib Cage,64,Human Rib Cage,A boring old human Rib Cage.,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Pelvis,66,Human Pelvis,A boring old human Pelvis.,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Upper Arm,68,Human Right Upper Arm,A boring old human Right Upper Arm.,0,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Upper Arm,70,Human Left Upper Arm,A boring old human Left Upper Arm.,0,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Forearm,72,Human Right Forearm,A boring old human Right Forearm.,0,0,1,0,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Forearm,74,Human Left Forearm,A boring old human Left Forearm.,0,0,1,0,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Hand,76,Human Right Hand,A boring old human Right Hand.,0,0,1,0,0,0,20,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Hand,78,Human Left Hand,A boring old human Left Hand.,0,0,1,0,0,0,20,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Thigh,80,Human Right Thigh,A boring old human Right Thigh.,0,0,2,0,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Thigh,82,Human Left Thigh,A boring old human Left Thigh.,0,0,2,0,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Crus,84,Human Right Crus,A boring old human Right Crus.,0,0,1,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Crus,86,Human Left Crus,A boring old human Left Crus.,0,0,1,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Foot,88,Human Right Foot,A boring old human Right Foot.,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Foot,90,Human Left Foot,A boring old human Left Foot.,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Skin,92,Human Skin,A boring old human Skin.,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Vocal Cords,94,Human Vocal Cords,A boring old human Vocal Cords.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Eye,97,Human Right Eye,A boring old human Right Eye.,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,10,10,0,0,0,10,5200,2258,0,1
+Left Eye,99,Human Left Eye,A boring old human Left Eye.,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,10,10,0,0,0,10,5200,2258,0,1
+Ears,101,Human Ears,A boring old human Ears.,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Jaw,103,Human Jaw,A boring old human Jaw.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1

@@ -1,0 +1,214 @@
+TABLE,cat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Slot,ID,Name,Description,MOL,MAL,COL,CAL,Press,Squat,Grip,Speed,Agile,Deft,Alert,Reflex,Spatial,Stress,PainTol,EmoCon,CritThink,Charm,Threat,Diplo,Wake,Metabol,VisDist,VisDet,IR,UV,XRay,VisLit,Life,CMalf,Tough,IsOrg
+Brain Stem Augmentation,1,Atlas Baseline Buffer,SUPER brainstsem,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,0,0,0,0,0,0,100,43,0,0
+Brain Stem Augmentation,1,Avarice Pro SuperStem,SUPER brainstsem,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,0,0,0,0,0,0,100,43,0,0
+Brain Stem Augmentation,1,Avarice Pro SuperStem,SUPER brainstsem,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,0,0,0,0,0,0,100,43,0,0
+Brain Stem Augmentation,2,Avarice Pro SuperStem,SUPER brainstsem,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,0,0,0,0,0,0,100,43,0,0
+Cerebellum Augmentation,4,MARATHON Muscular Control Suite,cerbereb,0,0,5,4,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Cerebellum Augmentation,4,Cerberus Overclocker,cerbereb,0,0,5,4,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Cerebellum Augmentation,4,Cerberus Overclocker,cerbereb,0,0,5,4,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Cerebellum Augmentation,5,Cerberus Overclocker,cerbereb,0,0,5,4,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Frontal Lobe Augmentation,7,NuMee Ego Redirect (ENFP),,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,100,100,30,20,100,0,0,0,0,0,0,0,0,100,43,0,0
+Frontal Lobe Augmentation,7,Deep Thought Logic Relay,,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,100,100,30,20,100,0,0,0,0,0,0,0,0,100,43,0,0
+Frontal Lobe Augmentation,7,Deep Thought Logic Relay,,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,100,100,30,20,100,0,0,0,0,0,0,0,0,100,43,0,0
+Frontal Lobe Augmentation,8,Deep Thought Logic Relay,,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,100,100,30,20,100,0,0,0,0,0,0,0,0,100,43,0,0
+Parietal Lobe Augmentation,10,3rd i Spatial Handler,,0,0,5,4,0,0,0,0,0,0,0,0,100,0,80,0,0,0,0,100,0,0,0,0,0,0,0,0,100,43,0,0
+Parietal Lobe Augmentation,10,Stonewall Parietal Booster,,0,0,5,4,0,0,0,0,0,0,0,0,100,0,80,0,0,0,0,100,0,0,0,0,0,0,0,0,100,43,0,0
+Parietal Lobe Augmentation,10,Stonewall Parietal Booster,,0,0,5,4,0,0,0,0,0,0,0,0,100,0,80,0,0,0,0,100,0,0,0,0,0,0,0,0,100,43,0,0
+Parietal Lobe Augmentation,11,Stonewall Parietal Booster,,0,0,5,4,0,0,0,0,0,0,0,0,100,0,80,0,0,0,0,100,0,0,0,0,0,0,0,0,100,43,0,0
+Occipital Lobe Augmentation,13,Mij Brand Parallel Resolver,,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,1,1,1,0,100,43,0,0
+Occipital Lobe Augmentation,13,OCCUS Solutions OC-188,,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,1,1,1,0,100,43,0,0
+Occipital Lobe Augmentation,13,OCCUS Solutions OC-188,,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,1,1,1,0,100,43,0,0
+Occipital Lobe Augmentation,14,OCCUS Solutions OC-188,,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,1,1,1,0,100,43,0,0
+Temporal Lobe Augmentation,16,Speechcraft Tic-Response Library,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,100,0,0,0,0,0,0,0,0,100,43,0,0
+Temporal Lobe Augmentation,16,Neo Clicker TL-7,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,100,0,0,0,0,0,0,0,0,100,43,0,0
+Temporal Lobe Augmentation,16,Neo Clicker TL-7,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,100,0,0,0,0,0,0,0,0,100,43,0,0
+Temporal Lobe Augmentation,17,Neo Clicker TL-7,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,100,0,0,0,0,0,0,0,0,100,43,0,0
+Hypothalamus Augmentation,19,Skinny Pete Caloric Regulator,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,0,0,0,0,0,0,100,43,0,0
+Hypothalamus Augmentation,19,Apex Prime HP Upper Drive,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,0,0,0,0,0,0,100,43,0,0
+Hypothalamus Augmentation,19,Apex Prime HP Upper Drive,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,0,0,0,0,0,0,100,43,0,0
+Hypothalamus Augmentation,20,Apex Prime HP Upper Drive,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,0,0,0,0,0,0,100,43,0,0
+Pituitary Gland Augmentation,22,Ice-Head Stoicizer,,0,0,5,2,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Pituitary Gland Augmentation,22,Wild Child Endocrine Enhancement Suite,,0,0,5,2,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Pituitary Gland Augmentation,22,Wild Child Endocrine Enhancement Suite,,0,0,5,2,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Pituitary Gland Augmentation,23,Wild Child Endocrine Enhancement Suite,,0,0,5,2,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Pineal Gland Augmentation,25,Night Driver PG-45,,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,100,43,0,0
+Pineal Gland Augmentation,25,Place Beyond The Pineal PG-88,,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,100,43,0,0
+Pineal Gland Augmentation,25,Place Beyond The Pineal PG-88,,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,100,43,0,0
+Pineal Gland Augmentation,26,Place Beyond The Pineal PG-88,,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,100,43,0,0
+Thalamus Augmentation,28,Iron Will Jaeger Suite,,0,0,5,2,0,0,0,0,0,0,90,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Thalamus Augmentation,28,Ubermensch TG-110A,,0,0,5,2,0,0,0,0,0,0,90,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Thalamus Augmentation,28,Ubermensch TG-110A,,0,0,5,2,0,0,0,0,0,0,90,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Thalamus Augmentation,29,Ubermensch TG-110A,,0,0,5,2,0,0,0,0,0,0,90,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Basal Ganglia Augmentation,31,Magic Hands Dex-Chip,,0,0,5,4,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Basal Ganglia Augmentation,31,Basal Instincts BG Drip V3.0,,0,0,5,4,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Basal Ganglia Augmentation,31,Basal Instincts BG Drip V3.0,,0,0,5,4,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Basal Ganglia Augmentation,32,Basal Instincts BG Drip V3.0,,0,0,5,4,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Limbic System Augmentation,34,Greyscale Superego Compensator,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,100,0,0,10,0,0,0,0,0,0,0,0,0,100,43,0,0
+Limbic System Augmentation,34,Almamecha Limbic Distributor,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,100,0,0,10,0,0,0,0,0,0,0,0,0,100,43,0,0
+Limbic System Augmentation,34,Almamecha Limbic Distributor,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,100,0,0,10,0,0,0,0,0,0,0,0,0,100,43,0,0
+Limbic System Augmentation,35,Almamecha Limbic Distributor,,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,100,0,0,10,0,0,0,0,0,0,0,0,0,100,43,0,0
+Heart,37,Red Out HPLV Cardiac Solution,,45,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Heart,37,CardoSec 8350FX (512 AES),Nobody's getting into this heart /sob,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Heart,38,CardoSec 8350FX (512 AES),Nobody's getting into this heart /sob,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Heart,39,Amore by Luna (Gold),Actually just gilded.,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Heart,40,Super Doki Fun Heart of Strong Brightness,,100,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Heart,41,Love Machine 8-Valve CV Pump,Contains twice the love of a human heart.,100,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Heart Augmentation,42,Berk-Shirley Concovex Mitral Solution,99 percent of the time- it works every time.,20,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Heart Augmentation,43,Timekeeper 81 Pace Controller,,20,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Lungs,45,Cloud Chucker Supreme Vapor Intake Suite,A boring old human Lungs.,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Lungs,45,DragonBjorn High-Volume Pulmonary Solution,,100,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Lungs,46,DragonBjorn High-Volume Pulmonary Solution,,100,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Lungs,47,Natural-Born Gryllers' HALO BioArray,,100,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Lung Augmentation,48,Green Vox Rebreather ,,20,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Lung Augmentation,49,Biomanus CA-11 Bronchial Support Suite,,20,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Stomach,51,Scavvy's Special (Black),,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,5200,2258,0,1
+Stomach,51,Ally's Secret Bilateral Ingestor,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,100,43,0,0
+Stomach,52,Ally's Secret Bilateral Ingestor,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,100,43,0,0
+Stomach,53,Tarrare 2 Iron Stomach,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,100,43,0,0
+Stomach Augmentation,54,TUMS Quickloader,Accepts standard and extended TUMS magazines.,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,100,43,0,0
+Stomach Augmentation,55,H51 Luxury Acid Catalyst,,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,100,43,0,0
+Intestines,57,Green Mile Unbustable Guts,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,5200,2258,0,1
+Intestines,57,The Standardizor,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,100,43,0,0
+Intestines,58,The Standardizor,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,100,43,0,0
+Intestines,59,Steamboat Nutrient Picker,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,100,43,0,0
+Intestinal Augmentation,60,Wombat Parcel Handler,,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,100,43,0,0
+Intestinal Augmentation,61,Pool Day Viscosity Regulator,,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,100,43,0,0
+Adrenal Gland,63,"""Tempest in a Teapot"" Apex Synethic Adrenal Gland",,0,0,1,0,2,2,2,2,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Adrenal Gland,63,Regal Adrenal A500,,0,0,0,5,20,20,20,20,0,0,0,20,0,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Adrenal Gland,64,Regal Adrenal A500,,0,0,0,5,20,20,20,20,0,0,0,20,0,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Adrenal Gland,65,"NorEpic ADR ""The Beast""",,0,0,0,5,20,20,20,20,0,0,0,20,0,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Adrenal Gland Augmentation,66,Eye of the Liger Adrenal Buffer,,0,0,8,3,10,10,10,10,0,0,0,10,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Adrenal Gland Augmentation,67,Fight 'n' Flight Norepinephrine Buffer,,0,0,8,3,10,10,10,10,0,0,0,10,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Thyroid,69,MediMax Low-Profile,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,5200,2258,0,1
+Thyroid,69,Skinny Pete Manual Adjust Thyroid,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,100,43,0,0
+Thyroid,70,Skinny Pete Manual Adjust Thyroid,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,100,43,0,0
+Thyroid,71,Thin Elizabeth Thyroid Solution,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,100,43,0,0
+Thyroid Augmentation,72,Little Secret by Monique,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,100,43,0,0
+Thyroid Augmentation,73,Skinny Pete Subdermal Thyroid Drip,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,100,43,0,0
+Spine,75,GotYerBack Standard 26-Segment,,0,10,0,0,0,20,0,0,2,0,0,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Spine,75,Felina Superflex with Caudal Port,,0,30,0,5,0,100,0,0,20,0,0,80,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Spine,76,Felina Superflex with Caudal Port,,0,30,0,5,0,100,0,0,20,0,0,80,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Spine,77,Appleseed FullFlex CNS Spinal Suite,,0,30,0,5,0,100,0,0,20,0,0,80,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Spinal Augmentation,78,Reid RGB Skelemount Aug PSU,Glowing characters change color with load.,0,10,0,3,0,50,0,0,10,0,0,50,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Spinal Augmentation,79,Doctor Octagonapus 950 Watt EndoSpinal,,0,10,0,3,0,50,0,0,10,0,0,50,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Skull,81,"KnuckleHead SK-S-0501 ""FlatTop""",,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Skull,81,NutShell 2.0R (White),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,10,100,43,0,0
+Skull,82,NutShell 2.0R (White),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,10,100,43,0,0
+Skull,83,Walleye Willy S4,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,10,100,43,0,0
+Right Humerus,85,Human Right Humerus,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Humerus,85,Bone Zone Fiber Mesh Humerus (Right),,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Humerus,86,Bone Zone Fiber Mesh Humerus (Right),,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Humerus,87,Bone Zone Fiber Mesh Humerus (Right),,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Humerus,89,Human Left Humerus,A boring old human Left Humerus.,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Humerus,89,Bone Zone Fiber Mesh Humerus (Left),,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Humerus,90,Bone Zone Fiber Mesh Humerus (Left),,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Humerus,91,Bone Zone Fiber Mesh Humerus (Left),,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Radius and Ulna,93,Human Right Radius and Ulna,A boring old human Right Radius and Ulna.,0,0,0,0,20,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Radius and Ulna,93,Bone Zone Fiber Mesh Forearm Kit (Right),,0,0,0,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Radius and Ulna,94,Bone Zone Fiber Mesh Forearm Kit (Right),,0,0,0,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Radius and Ulna,95,Bone Zone Fiber Mesh Forearm Kit (Right),,0,0,0,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Radius and Ulna,97,Human Left Radius and Ulna,A boring old human Left Radius and Ulna.,0,0,0,0,20,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Radius and Ulna,97,Bone Zone Fiber Mesh Forearm Kit (Left),,0,0,0,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Radius and Ulna,98,Bone Zone Fiber Mesh Forearm Kit (Left),,0,0,0,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Radius and Ulna,99,Bone Zone Fiber Mesh Forearm Kit (Left),,0,0,0,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Femur,101,Human Right Femur,A boring old human Right Femur.,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Femur,101,Thunder Thighs Brushed Aluminum Femur (R),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Femur,102,Thunder Thighs Brushed Aluminum Femur (R),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Femur,103,Thunder Thighs Brushed Aluminum Femur (R),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Femur,105,Human Left Femur,A boring old human Left Femur.,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Femur,105,Thunder Thighs Brushed Aluminum Femur (L),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Femur,106,Thunder Thighs Brushed Aluminum Femur (L),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Femur,107,Thunder Thighs Brushed Aluminum Femur (L),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Tibia and Fibula,109,Human Right Tibia and Fibula,A boring old human Right Tibia and Fibula.,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Tibia and Fibula,109,Widdershins Carbon Fiber Shin Kit (R),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Tibia and Fibula,110,Widdershins Carbon Fiber Shin Kit (R),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Tibia and Fibula,111,Widdershins Carbon Fiber Shin Kit (R),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Tibia and Fibula,113,Human Left Tibia and Fibula,A boring old human Left Tibia and Fibula.,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Tibia and Fibula,113,Widdershins Carbon Fiber Shin Kit (L),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Tibia and Fibula,114,Widdershins Carbon Fiber Shin Kit (L),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Tibia and Fibula,115,Widdershins Carbon Fiber Shin Kit (L),,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Rib Cage,117,Human Rib Cage,A boring old human Rib Cage.,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Rib Cage,117,Apex RC-81 Unsplittable Sides,,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,100,43,0,0
+Rib Cage,118,Apex RC-81 Unsplittable Sides,,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,100,43,0,0
+Rib Cage,119,Apex RC-81 Unsplittable Sides,,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,100,43,0,0
+Pelvis,121,Human Pelvis,A boring old human Pelvis.,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Pelvis,121,Squat Rocket 2T (Wide),Capable of withstanding 2 tons of repetitive downward force!,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Pelvis,122,Squat Rocket 2T (Wide),Capable of withstanding 2 tons of repetitive downward force!,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Pelvis,123,Squat Rocket 2T (Wide),Capable of withstanding 2 tons of repetitive downward force!,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Upper Arm,125,Human Right Upper Arm,A boring old human Right Upper Arm.,0,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Upper Arm,125,USMC BTA 155RA,,0,0,0,3,20,0,0,0,10,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Upper Arm,126,USMC BTA 155RA,,0,0,0,3,20,0,0,0,10,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Upper Arm,127,USMC BTA 155RA,,0,0,0,3,20,0,0,0,10,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Upper Arm,129,Human Left Upper Arm,A boring old human Left Upper Arm.,0,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Upper Arm,129,USMC BTA 155LA,,0,0,0,3,20,0,0,0,10,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Upper Arm,130,USMC BTA 155LA,,0,0,0,3,20,0,0,0,10,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Upper Arm,131,USMC BTA 155LA,,0,0,0,3,20,0,0,0,10,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Forearm,133,Human Right Forearm,A boring old human Right Forearm.,0,0,1,0,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Forearm,133,"Apex FA-6000 ""Vader"" (Right)",,0,0,0,2,20,0,40,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Forearm,134,"Apex FA-6000 ""Vader"" (Right)",,0,0,0,2,20,0,40,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Forearm,135,"Apex FA-6000 ""Vader"" (Right)",,0,0,0,2,20,0,40,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Forearm,137,Human Left Forearm,A boring old human Left Forearm.,0,0,1,0,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Forearm,137,"Apex FA-6000 ""Vader"" (Left)",,0,0,0,2,20,0,40,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Forearm,138,"Apex FA-6000 ""Vader"" (Left)",,0,0,0,2,20,0,40,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Forearm,139,"Apex FA-6000 ""Vader"" (Left)",,0,0,0,2,20,0,40,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Hand,141,Human Right Hand,A boring old human Right Hand.,0,0,1,0,0,0,20,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Hand,141,Van Wailin' H80 Pro for Guitar and Harp (Right),,0,0,0,2,0,0,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Hand,142,Van Wailin' H80 Pro for Guitar and Harp (Right),,0,0,0,2,0,0,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Hand,143,Van Wailin' H80 Pro for Guitar and Harp (Right),,0,0,0,2,0,0,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Hand,145,Human Left Hand,A boring old human Left Hand.,0,0,1,0,0,0,20,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Hand,145,Van Wailin' H80 Pro for Guitar and Harp (Left),,0,0,0,2,0,0,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Hand,146,Van Wailin' H80 Pro for Guitar and Harp (Left),,0,0,0,2,0,0,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Hand,147,Van Wailin' H80 Pro for Guitar and Harp (Left),,0,0,0,2,0,0,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Thigh,149,Human Right Thigh,A boring old human Right Thigh.,0,0,2,0,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Thigh,149,"Apex Thigh Kit TK-040-A ""Beartrap"" (Right)",,0,0,0,3,0,20,0,20,10,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Thigh,150,"Apex Thigh Kit TK-040-A ""Beartrap"" (Right)",,0,0,0,3,0,20,0,20,10,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Thigh,151,"Apex Thigh Kit TK-040-A ""Beartrap"" (Right)",,0,0,0,3,0,20,0,20,10,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Thigh,153,Human Left Thigh,A boring old human Left Thigh.,0,0,2,0,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Thigh,153,"Apex Thigh Kit TK-040-A ""Beartrap"" (Left)",,0,0,0,3,0,20,0,20,10,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Thigh,154,"Apex Thigh Kit TK-040-A ""Beartrap"" (Left)",,0,0,0,3,0,20,0,20,10,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Thigh,155,"Apex Thigh Kit TK-040-A ""Beartrap"" (Left)",,0,0,0,3,0,20,0,20,10,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Crus,157,Human Right Crus,A boring old human Right Crus.,0,0,1,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Crus,157,Big Air Tipper III (Right),,0,0,0,2,0,20,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Crus,158,Big Air Tipper III (Right),,0,0,0,2,0,20,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Crus,159,Big Air Tipper III (Right),,0,0,0,2,0,20,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Crus,161,Human Left Crus,A boring old human Left Crus.,0,0,1,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Crus,161,Big Air Tipper III (Left),,0,0,0,2,0,20,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Crus,162,Big Air Tipper III (Left),,0,0,0,2,0,20,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Crus,163,Big Air Tipper III (Left),,0,0,0,2,0,20,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Foot,165,Human Right Foot,A boring old human Right Foot.,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Right Foot,165,Gibbon Opposable Foot (Right),,0,0,0,2,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Foot,166,Gibbon Opposable Foot (Right),,0,0,0,2,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Foot,167,Gibbon Opposable Foot (Right),,0,0,0,2,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Foot,169,Human Left Foot,A boring old human Left Foot.,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Left Foot,169,Gibbon Opposable Foot (Left),,0,0,0,2,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Foot,170,Gibbon Opposable Foot (Left),,0,0,0,2,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Left Foot,171,Gibbon Opposable Foot (Left),,0,0,0,2,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Vocal Cords,173,Human Vocal Cords,A boring old human Vocal Cords.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Vocal Cords,173,Buzzword 7.1 Tracheal Speaker,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,100,43,0,0
+Vocal Cords,174,Buzzword 7.1 Tracheal Speaker,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,100,43,0,0
+Vocal Cords,175,Buzzword 7.1 Tracheal Speaker,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,100,43,0,0
+Vocal Cord Augmentation,176,LaDeeDa C3C5 De-Baritoner,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,100,43,0,0
+Vocal Cord Augmentation,177,LaDeeDa C3C5 De-Baritoner,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,100,43,0,0
+Right Eye,179,Human Right Eye,A boring old human Right Eye.,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,10,10,0,0,0,10,5200,2258,0,1
+Right Eye,179,Shepherd's Own Special Eyes (Orphan Blue) R,,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,85,85,1,1,1,90,100,43,0,0
+Right Eye,180,Shepherd's Own Special Eyes (Orphan Blue) R,,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,85,85,1,1,1,90,100,43,0,0
+Right Eye,181,Shepherd's Own Special Eyes (Orphan Blue) R,,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,85,85,1,1,1,90,100,43,0,0
+Left Eye,183,Human Left Eye,A boring old human Left Eye.,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,10,10,0,0,0,10,5200,2258,0,1
+Left Eye,183,Shepherd's Own Special Eyes (Orphan Blue) L,,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,85,85,1,1,1,90,100,43,0,0
+Left Eye,184,Shepherd's Own Special Eyes (Orphan Blue) L,,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,85,85,1,1,1,90,100,43,0,0
+Left Eye,185,Shepherd's Own Special Eyes (Orphan Blue) L,,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,85,85,1,1,1,90,100,43,0,0
+Ears,187,Human Ears,A boring old human Ears.,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Ears,187,Pitchmaster Lobotic Auralizer,,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Ears,188,Pitchmaster Lobotic Auralizer,,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Ears,189,Pitchmaster Lobotic Auralizer,,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Jaw,191,Human Jaw,A boring old human Jaw.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Jaw,191,RK-74 Cable Cutter Jaws,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,100,43,0,0
+Jaw,192,RK-74 Cable Cutter Jaws,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,100,43,0,0
+Jaw,193,RK-74 Cable Cutter Jaws,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,100,43,0,0
+Face,194,Human Face,A boring old human Face.,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Face,195,Human Face,A boring old human Face.,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,5200,2258,0,1
+Face,196,Neopolitan Atmosphere Concealor,,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,15,20,0,0,0,15,15,0,0,0,0,100,43,0,0
+Face,197,Neopolitan Atmosphere Concealor,,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,15,20,0,0,0,15,15,0,0,0,0,100,43,0,0
+Battery,198,Sammy Sung G7 Small Form Li-Ion 4500mAh ,Perfectly safe to install wherever it is you're putting batteries.,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0
+Battery,199,Sammy Sung G7 Small Form Li-Ion 4500mAh ,Perfectly safe to install wherever it is you're putting batteries.,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,43,0,0

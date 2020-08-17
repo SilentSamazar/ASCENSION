@@ -43,3 +43,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa26a9220de864c8b1082317709f66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FullName: 
+  FlavorText: 
+  IsAugSlot: 0
+  MajorGroup: 
+  SubGroup: 
+  ProtectingSlot: 
+  SurgicalParent: 
+  componentPrefab: {fileID: 7649581945046539922, guid: 363de08d1283d4a439a9eb8a22e53a7b,
+    type: 3}

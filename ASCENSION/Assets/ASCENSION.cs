@@ -1126,7 +1126,7 @@ public class ASCENSION : MonoBehaviour
             PushEvent("This component is designed for organic components.\n");
             return;
         }
-                       
+        
         if (target.ActiveComponent.MakeModel.Attributes[31] == 1 && cmp.MakeModel.Attributes[31] != 1) // If you are trying to replace an organic with a non-organic
         {
             foreach (KeyValuePair<string, Slot> m in PLAYER.Body)
@@ -1771,20 +1771,20 @@ public class ASCENSION : MonoBehaviour
     void UpdateUIInventory()
     {
 
-        Inv1.text = InvString(0);
-        Inv2.text = InvString(1);
-        Inv3.text = InvString(2);
-        Inv4.text = InvString(3);
-        Inv5.text = InvString(4);
-        Inv6.text = InvString(5);
-        Inv7.text = InvString(6);
-        Inv8.text = InvString(7);
-        Inv9.text = InvString(8);
-        Inv10.text = InvString(9);
-        Inv11.text = InvString(10);
-        Inv12.text = InvString(11);
-        Inv13.text = InvString(12);
-        Inv14.text = InvString(13);
+        //Inv1.text = InvString(0);
+        //Inv2.text = InvString(1);
+        //Inv3.text = InvString(2);
+        //Inv4.text = InvString(3);
+        //Inv5.text = InvString(4);
+        //Inv6.text = InvString(5);
+        //Inv7.text = InvString(6);
+        //Inv8.text = InvString(7);
+        //Inv9.text = InvString(8);
+        //Inv10.text = InvString(9);
+        //Inv11.text = InvString(10);
+        //Inv12.text = InvString(11);
+        //Inv13.text = InvString(12);
+        //Inv14.text = InvString(13);
     }
 
     void UpdateUIOther()

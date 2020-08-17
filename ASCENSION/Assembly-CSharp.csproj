@@ -64,11 +64,17 @@
   <ItemGroup>
     <Compile Include="Assets\ASCENSION.cs" />
     <Compile Include="Assets\Being.cs" />
+    <Compile Include="Assets\BeingBehavior.cs" />
     <Compile Include="Assets\BodyBehavior.cs" />
+    <Compile Include="Assets\CatalogDropTables.cs" />
     <Compile Include="Assets\ComponentBehavior.cs" />
+    <Compile Include="Assets\Conductor.cs" />
     <Compile Include="Assets\FollowMouse.cs" />
+    <Compile Include="Assets\HideoutBehavior.cs" />
+    <Compile Include="Assets\HideoutInventoryBehavior.cs" />
     <Compile Include="Assets\PlayerInput.cs" />
     <Compile Include="Assets\SlotBehavior.cs" />
+    <Compile Include="Assets\TextInput.cs" />
     <Compile Include="Assets\UIStuff.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />

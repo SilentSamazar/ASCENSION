@@ -1,0 +1,70 @@
+Tag	Full Name	Flavor Text	IsAugSlot	Major Group	Sub Group	Protector	Surgical Parent
+BrainStem	Brain Stem	Affects wakefulness and metabolism.	0	BRAIN	HEAD	Skull	None
+StemAug	Brain Stem Augmentation	Affects wakefulness and metabolism.	1	BRAIN	HEAD	Skull	Brain Stem
+Cerebellum	Cerebellum	Determines maximum agility.	0	BRAIN	HEAD	Skull	None
+CerAug	Cerebellum Augmentation	Determines maximum agility.	1	BRAIN	HEAD	Skull	Cerebellum
+Frontal	Frontal Lobe	Affects diplomacy, emotional control, critical thinking, charm and threat.	0	BRAIN	HEAD	Skull	None
+FroAug	Frontal Lobe Augmentation	Affects diplomacy, emotional control, critical thinking, charm and threat.	1	BRAIN	HEAD	Skull	Frontal Lobe
+Parietal	Parietal Lobe	Determines maximum spatial sense. Affects pain tolerance and diplomacy.	0	BRAIN	HEAD	Skull	None
+ParAug	Parietal Lobe Augmentation	Determines maximum spatial sense. Affects pain tolerance and diplomacy.	1	BRAIN	HEAD	Skull	Parietal Lobe
+Occipital	Occipital Lobe	Determines maximum visual detail, and visible spectra.	0	BRAIN	HEAD	Skull	None
+OccAug	Occipital Lobe Augmentation	Determines maximum visual detail, and visible spectra.	1	BRAIN	HEAD	Skull	Occipital Lobe
+Temporal	Temporal Lobe	Affects critical thinking and diplomacy.	0	BRAIN	HEAD	Skull	None
+TemAug	Temporal Lobe Augmentation	Affects critical thinking and diplomacy.	1	BRAIN	HEAD	Skull	Temporal Lobe
+Hypothalamus	Hypothalamus	Affects wakefullness and metabolism.	0	BRAIN	HEAD	Skull	None
+HypAug	Hypothalamus Augmentation	Affects wakefullness and metabolism.	1	BRAIN	HEAD	Skull	Hypothalamus
+Pituitary	Pituitary Gland	Greatly affects stress response and pain tolerance.	0	BRAIN	HEAD	Skull	None
+PitAug	Pituitary Gland Augmentation	Greatly affects stress response and pain tolerance.	1	BRAIN	HEAD	Skull	Pituitary Gland
+Pineal	Pineal Gland	Greatly affects wakefulness.	0	BRAIN	HEAD	Skull	None
+PinAug	Pineal Gland Augmentation	Greatly affects wakefulness.	1	BRAIN	HEAD	Skull	Pineal Gland
+Thalamus	Thalamus	Affects alertness and pain tolerance.	0	BRAIN	HEAD	Skull	None
+ThaAug	Thalamus Augmentation	Affects alertness and pain tolerance.	1	BRAIN	HEAD	Skull	Thalamus
+Basal	Basal Ganglia	Determines maximum deftness and fine motor function.	0	BRAIN	HEAD	Skull	None
+BasAug	Basal Ganglia Augmentation	Determines maximum deftness and fine motor function.	1	BRAIN	HEAD	Skull	Basal Ganglia
+Limbic	Limbic System	Affects emotional control and threat rating.	0	BRAIN	HEAD	Skull	None
+LimAug	Limbic System Augmentation	Affects emotional control and threat rating.	1	BRAIN	HEAD	Skull	Limbic System
+Heart	Heart	With the lungs, determines maximum organic load. Offers a minor augmentation load boost.	0	ORGANS	CHEST	Rib Cage	None
+HeartAug	Heart Augmentation	With the lungs, determines maximum organic load. Offers a minor augmentation load boost.	1	ORGANS	CHEST	Rib Cage	Heart
+Stomach	Stomach	Affects metabolic efficiency.	0	ORGANS	ABDOMEN	None	None
+StomachAug	Stomach Augmentation	Affects metabolic efficiency.	1	ORGANS	ABDOMEN	None	Stomach
+Intestines	Intestines	Affects metabolic efficiency.	0	ORGANS	ABDOMEN	None	None
+IntestineAug	Intestine Augmentation	Affects metabolic efficiency.	1	ORGANS	ABDOMEN	None	Intestines
+Adrenal	Adrenal Gland	Boosts all physical attributes, reflex, stress response and pain tolerance.	0	ORGANS	ABDOMEN	None	None
+AdrenalAug	Adrenal Gland Augmentation	Boosts all physical attributes, reflex, stress response and pain tolerance.	1	ORGANS	ABDOMEN	None	Adrenal Gland
+Thyroid	Thyroid	Affects metabolic efficiency.	0	ORGANS	THROAT	Jaw	None
+ThyroidAug	Thyroid Augmentation	Affects metabolic efficiency.	1	ORGANS	THROAT	Jaw	Thyroid
+BArmRU	Right Humerus	Sets the cap for right arm press force.	0	SKELETAL	RIGHT ARM	Right Upper Arm	Right Upper Arm
+BArmLU	Left Humerus	Sets the cap for left arm press force.	0	SKELETAL	LEFT ARM	Left Upper Arm	Left Upper Arm
+BArmRF	Right Radius and Ulna	Sets the cap for right arm press force.	0	SKELETAL	RIGHT ARM	Right Forearm	Right Forearm
+BArmLF	Left Radius and Ulna	Sets the cap for left arm press force.	0	SKELETAL	LEFT ARM	Left Forearm	Left Forearm
+BLegRU	Right Femur	Sets the cap for right leg squat force and carrying capacity.	0	SKELETAL	RIGHT LEG	Right Thigh	Right Thigh
+BLegLU	Left Femur	Sets the cap for left leg squat force and carrying capacity.	0	SKELETAL	LEFT LEG	Left Thigh	Left Thigh
+BLegRL	Right Tibia and Fibula	Sets the cap for right leg squat force and carrying capacity.	0	SKELETAL	RIGHT LEG	Right Crus	Right Crus
+BLegLL	Left Tibia and Fibula	Sets the cap for left leg squat force and carrying capacity.	0	SKELETAL	LEFT LEG	Left Crus	Left Crus
+Ribs	Rib Cage	Sets the cap for the press force using both arms. Protects the heart and lungs.	0	SKELETAL	CHEST	None	None
+Skull	Skull	Protects all brain components. Can affect threat and charm ratings.	0	SKELETAL	HEAD	None	None
+Pelvis	Pelvis	Determines maximum squat force using both legs, and carrying capacity.	0	SKELETAL	ABDOMEN	None	None
+Spine	Spine	Determines maximum squat force using both legs, and carrying capacity. Affects agility and reflexes.	0	SKELETAL	CHEST	Rib Cage	None
+SpineAug	Spinal Augmentation	Determines maximum squat force using both legs, and carrying capacity. Affects agility and reflexes.	1	SKELETAL	CHEST	Rib Cage	None
+ArmRU	Right Upper Arm	Affects right arm press force, and overall agility.	0	OUTER	RIGHT ARM	None	None
+ArmLU	Left Upper Arm	Affects left arm press force, and overall agility.	0	OUTER	LEFT ARM	None	None
+ArmRF	Right Forearm	Affects right arm press force, grip strength and overall agility.	0	OUTER	RIGHT ARM	None	Right Upper Arm
+ArmLF	Left Forearm	Affects left arm press force, grip strength and overall agility.	0	OUTER	LEFT ARM	None	Left Upper Arm
+LegRU	Right Thigh	Affects right leg squat force, overall speed and agility.	0	OUTER	RIGHT LEG	None	None
+LegLU	Left Thigh	Affects left leg squat force, overall speed and agility.	0	OUTER	LEFT LEG	None	None
+LegRL	Right Crus	Affects right leg squat force, overall speed and agility.	0	OUTER	RIGHT LEG	None	Right Thigh
+LegLL	Left Crus	Affects left leg squat force, overall speed and agility.	0	OUTER	LEFT LEG	None	Left Thigh
+HandR	Right Hand	Sets the cap for grip strength. Affects deftness.	0	OUTER	RIGHT HAND	None	Right Forearm
+HandL	Left Hand	Sets the cap for grip strength. Affects deftness.	0	OUTER	LEFT HAND	None	Left Forearm
+FootR	Right Foot	Affects speed.	0	OUTER	RIGHT FOOT	None	Right Crus
+FootL	Left Foot	Affects speed.	0	OUTER	LEFT FOOT	None	Left Crus
+Lungs	Lungs	With the heart, sets the maximum organic load.	0	ORGANS	CHEST	Rib Cage	None
+LungAug	Lung Augmentation	With the heart, sets the maximum organic load.	1	ORGANS	CHEST	Rib Cage	Lungs
+Vocal	Vocal Cords	Makes diplomacy possible.	0	OUTER	THROAT	Jaw	None
+VocalAug	Vocal Cord Augmentation	Affects charm and threat ratings.	1	OUTER	THROAT	Jaw	Vocal Cords
+EyeL	Left Eye	Affects spatial sense, visible spectra, distance and detail of vision.	0	OUTER	HEAD	None	None
+EyeR	Right Eye	Affects spatial sense, visible spectra, distance and detail of vision.	0	OUTER	HEAD	None	None
+Ears	Ears	Affects spatial sense.	0	OUTER	HEAD	None	None
+Jaw	Jaw	Can protect the skull and affect charm or threat ratings. Makes diplomacy possible.	0	OUTER	HEAD	None	None
+Face	Face	Can affect vision, alertness, charm, threat and reflexes.	0	OUTER	HEAD	None	None
+Battery	Battery	Requires a robotic or augmented spine. Determines maximum augmentation load.	0	ORGANS	CHEST	Spine	Spine

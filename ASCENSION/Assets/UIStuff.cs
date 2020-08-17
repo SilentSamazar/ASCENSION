@@ -6,6 +6,7 @@ using UnityEngine.UI;
 [System.Serializable]
 public class UIStuff : MonoBehaviour
 {
+    #region Legacy Stuff Not Currently Used
     public GameObject SkeletalMenu;
     public GameObject OuterMenu;
     public GameObject BrainMenu;
@@ -14,7 +15,14 @@ public class UIStuff : MonoBehaviour
 
     public GameObject PlayerMenu;
     public GameObject CityMenu;
-    
+
+    public GameObject InvButtonPrefab;
+    public GameObject InventoryContent;
+    public Transform HideoutInventory;
+    public float ButtonSpacing = 10.0f;
+
+
+
     public void OpenSkeletal()
     {
         SkeletalMenu.SetActive(true);
@@ -70,6 +78,37 @@ public class UIStuff : MonoBehaviour
     {
         PlayerMenu.SetActive(false);
         CityMenu.SetActive(true);
+    }
+
+    #endregion
+
+    List<string> InventoryList = new List<string>(); // from the text input tutorial
+    public TMPro.TMP_Text inventoryText;
+
+    List<string> actionLog = new List<string>(); // from the text input tutorial
+    public TMPro.TMP_Text displayText;
+
+    public void LogStringWithReturn(string stringToAdd)
+    {
+        actionLog.Add(stringToAdd + "\n");
+    }
+
+    public void DisplayLoggedText()
+    {
+        string logAsText = string.Join("", actionLog.ToArray());
+        displayText.text = logAsText;
+    }
+
+    public void UpdateInventory()
+    {
+        HideoutInventory = GameObject.Find("Hideout Inventory").transform;
+        string ItemsSplitByLine = "CURRENT INVENTORY: \n\n";
+
+        for (int i = 0; i < HideoutInventory.childCount; i++)
+        {
+            ItemsSplitByLine += (i + 1) + ". " + HideoutInventory.GetChild(i).GetComponent<ComponentBehavior>().Slot.ToUpper() + ": \"" + HideoutInventory.GetChild(i).name + "\".\n";
+        }
+        inventoryText.text = ItemsSplitByLine;
     }
 
 }

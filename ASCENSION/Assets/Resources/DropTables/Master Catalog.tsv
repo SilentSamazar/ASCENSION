@@ -1,0 +1,201 @@
+DROP TABLES	Slot	ID	Name	Description	MOL	MAL	COL	CAL	Press	Squat	Grip	Speed	Agile	Deft	Alert	Reflex	Spatial	Stress	PainTol	EmoCon	CritThink	Charm	Threat	Diplo	Wake	Metabol	VisDist	VisDet	IR	UV	XRay	VisLit	Life	CMalf	Tough	IsOrg
+Human	Brain Stem	0	Human Brain Stem	A boring old human Brain Stem.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	5200	2258	0	1
+ cat	Brain Stem Augmentation	1	Atlas Baseline Buffer	SUPER brainstsem	0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	10	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Brain Stem Augmentation	2	Avarice Pro SuperStem	SUPER brainstsem	0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	10	0	0	0	0	0	0	100	43	0	0
+Human	Cerebellum	3	Human Cerebellum	A boring old human Cerebellum.	0	0	1	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Cerebellum Augmentation	4	MARATHON Muscular Control Suite	cerbereb	0	0	5	4	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Cerebellum Augmentation	5	Cerberus Overclocker	cerbereb	0	0	5	4	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Frontal Lobe	6	Human Frontal Lobe	A boring old human Frontal Lobe.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	10	10	10	5	10	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Frontal Lobe Augmentation	7	NuMee Ego Redirect (ENFP)		0	0	5	5	0	0	0	0	0	0	0	0	0	0	0	100	100	30	20	100	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Frontal Lobe Augmentation	8	Deep Thought Logic Relay		0	0	5	5	0	0	0	0	0	0	0	0	0	0	0	100	100	30	20	100	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Parietal Lobe	9	Human Parietal Lobe	A boring old human Parietal Lobe.	0	0	1	0	0	0	0	0	0	0	0	0	20	0	8	0	0	0	0	10	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Parietal Lobe Augmentation	10	3rd i Spatial Handler		0	0	5	4	0	0	0	0	0	0	0	0	100	0	80	0	0	0	0	100	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Parietal Lobe Augmentation	11	Stonewall Parietal Booster		0	0	5	4	0	0	0	0	0	0	0	0	100	0	80	0	0	0	0	100	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Occipital Lobe	12	Human Occipital Lobe	A boring old human Occipital Lobe.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	5200	2258	0	1
+ cat	Occipital Lobe Augmentation	13	Mij Brand Parallel Resolver		0	0	5	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	1	1	1	0	100	43	0	0
+Perfect cat	Occipital Lobe Augmentation	14	OCCUS Solutions OC-188		0	0	5	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	1	1	1	0	100	43	0	0
+Human	Temporal Lobe	15	Human Temporal Lobe	A boring old human Temporal Lobe.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	10	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Temporal Lobe Augmentation	16	Speechcraft Tic-Response Library		0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	100	0	0	100	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Temporal Lobe Augmentation	17	Neo Clicker TL-7		0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	100	0	0	100	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Hypothalamus	18	Human Hypothalmus	A boring old human Hypothalamus.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	5200	2258	0	1
+ cat	Hypothalamus Augmentation	19	Skinny Pete Caloric Regulator		0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	10	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Hypothalamus Augmentation	20	Apex Prime HP Upper Drive		0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	10	0	0	0	0	0	0	100	43	0	0
+Human	Pituitary Gland	21	Human Pituitary Gland	A boring old human Pituitary Gland.	0	0	1	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Pituitary Gland Augmentation	22	Ice-Head Stoicizer		0	0	5	2	0	0	0	0	0	0	0	0	0	80	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Pituitary Gland Augmentation	23	Wild Child Endocrine Enhancement Suite		0	0	5	2	0	0	0	0	0	0	0	0	0	80	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Pineal Gland	24	Human Pineal Gland	A boring old human Pineal Gland.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Pineal Gland Augmentation	25	Night Driver PG-45		0	0	5	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Pineal Gland Augmentation	26	Place Beyond The Pineal PG-88		0	0	5	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	0	0	0	0	0	0	0	100	43	0	0
+Human	Thalamus	27	Human Thalamus	A boring old human Thalamus.	0	0	1	0	0	0	0	0	0	0	10	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Thalamus Augmentation	28	Iron Will Jaeger Suite		0	0	5	2	0	0	0	0	0	0	90	0	0	0	80	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Thalamus Augmentation	29	Ubermensch TG-110A		0	0	5	2	0	0	0	0	0	0	90	0	0	0	80	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Basal Ganglia	30	Human Basal Ganglia	A boring old human Basal Ganglia.	0	0	1	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Basal Ganglia Augmentation	31	Magic Hands Dex-Chip		0	0	5	4	0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Basal Ganglia Augmentation	32	Basal Instincts BG Drip V3.0		0	0	5	4	0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Limbic System	33	Human Limbic System	A boring old human Limbic System.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	5	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Limbic System Augmentation	34	Greyscale Superego Compensator		0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	100	0	0	10	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Limbic System Augmentation	35	Almamecha Limbic Distributor		0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	100	0	0	10	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Heart	36	Human Heart	A boring old human Heart.	45	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Heart	37	Red Out HPLV Cardiac Solution		45	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Heart	38	CardoSec 8350FX (512 AES)	Nobody's getting into this heart /sob	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+ cat	Heart	39	Amore by Luna (Gold)	Actually just gilded.	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+ cat	Heart	40	Super Doki Fun Heart of Strong Brightness		100	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Heart	41	Love Machine 8-Valve CV Pump	Contains twice the love of a human heart.	100	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+ cat	Heart Augmentation	42	Berk-Shirley Concovex Mitral Solution	99 percent of the time- it works every time.	20	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Heart Augmentation	43	Timekeeper 81 Pace Controller		20	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Lungs	44	Human Lungs	A boring old human Lungs.	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Lungs	45	Cloud Chucker Supreme Vapor Intake Suite	A boring old human Lungs.	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Lungs	46	DragonBjorn High-Volume Pulmonary Solution		100	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Lungs	47	Natural-Born Gryllers' HALO BioArray		100	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+ cat	Lung Augmentation	48	Green Vox Rebreather 		20	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Lung Augmentation	49	Biomanus CA-11 Bronchial Support Suite		20	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Stomach	50	Human Stomach	A boring old human Stomach.	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	5200	2258	0	1
+ cat	Stomach	51	Scavvy's Special (Black)		0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	5200	2258	0	1
+ cat	Stomach	52	Ally's Secret Bilateral Ingestor		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Stomach	53	Tarrare 2 Iron Stomach		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	100	43	0	0
+ cat	Stomach Augmentation	54	TUMS Quickloader	Accepts standard and extended TUMS magazines.	0	0	8	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Stomach Augmentation	55	H51 Luxury Acid Catalyst		0	0	8	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	100	43	0	0
+Human	Intestines	56	Human Intestines	A boring old human Intestines.	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	5200	2258	0	1
+ cat	Intestines	57	Green Mile Unbustable Guts		0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	5200	2258	0	1
+ cat	Intestines	58	The Standardizor		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Intestines	59	Steamboat Nutrient Picker		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	100	43	0	0
+ cat	Intestinal Augmentation	60	Wombat Parcel Handler		0	0	8	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Intestinal Augmentation	61	Pool Day Viscosity Regulator		0	0	8	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	100	43	0	0
+Human	Adrenal Gland	62	Human Adrenal Gland	A boring old human Adrenal Gland.	0	0	1	0	1	1	1	2	0	0	0	2	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Adrenal Gland	63	"Tempest in a Teapot" Apex Synethic Adrenal Gland		0	0	1	0	1	1	1	2	0	0	0	2	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Adrenal Gland	64	Regal Adrenal A500		0	0	0	5	10	10	10	20	0	0	0	20	0	20	20	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Adrenal Gland	65	NorEpic ADR "The Beast"		0	0	0	5	10	10	10	20	0	0	0	20	0	20	20	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+ cat	Adrenal Gland Augmentation	66	Eye of the Liger Adrenal Buffer		0	0	8	3	5	5	5	10	0	0	0	10	0	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Adrenal Gland Augmentation	67	Fight 'n' Flight Norepinephrine Buffer		0	0	8	3	5	5	5	10	0	0	0	10	0	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Thyroid	68	Human Thyroid	A boring old human Thyroid.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	5200	2258	0	1
+ cat	Thyroid	69	MediMax Low-Profile		0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	5200	2258	0	1
+ cat	Thyroid	70	Skinny Pete Manual Adjust Thyroid		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Thyroid	71	Thin Elizabeth Thyroid Solution		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	100	43	0	0
+ cat	Thyroid Augmentation	72	Little Secret by Monique		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Thyroid Augmentation	73	Skinny Pete Subdermal Thyroid Drip		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	100	43	0	0
+Human	Spine	74	Human Spine	A boring old human Spine.	0	10	0	0	0	20	0	0	2	0	0	8	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Spine	75	GotYerBack Standard 26-Segment		0	10	0	0	0	20	0	0	2	0	0	8	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Spine	76	Felina Superflex with Caudal Port		0	30	0	5	0	100	0	0	20	0	0	80	0	0	80	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Spine	77	Appleseed FullFlex CNS Spinal Suite		0	30	0	5	0	100	0	0	20	0	0	80	0	0	80	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+ cat	Spinal Augmentation	78	Reid RGB Skelemount Aug PSU	Glowing characters change color with load.	0	10	0	3	0	50	0	0	10	0	0	50	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Spinal Augmentation	79	Doctor Octagonapus 950 Watt EndoSpinal		0	10	0	3	0	50	0	0	10	0	0	50	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Skull	80	Human Skull	A boring old human Skull.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Skull	81	KnuckleHead SK-S-0501 "FlatTop"		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Skull	82	NutShell 2.0R (White)		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	10	100	43	0	0
+Perfect cat	Skull	83	Walleye Willy S4		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	10	100	43	0	0
+Human	Right Humerus	84	Human Right Humerus	A boring old human Right Humerus.	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Humerus	85	Human Right Humerus		0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Humerus	86	Bone Zone Fiber Mesh Humerus (Right)		0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Right Humerus	87	Bone Zone Fiber Mesh Humerus (Right)		0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Left Humerus	88	Human Left Humerus	A boring old human Left Humerus.	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Humerus	89	Human Left Humerus	A boring old human Left Humerus.	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Humerus	90	Bone Zone Fiber Mesh Humerus (Left)		0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Left Humerus	91	Bone Zone Fiber Mesh Humerus (Left)		0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Right Radius and Ulna	92	Human Right Radius and Ulna	A boring old human Right Radius and Ulna.	0	0	0	0	20	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Radius and Ulna	93	Human Right Radius and Ulna	A boring old human Right Radius and Ulna.	0	0	0	0	20	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Radius and Ulna	94	Bone Zone Fiber Mesh Forearm Kit (Right)		0	0	0	0	100	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Right Radius and Ulna	95	Bone Zone Fiber Mesh Forearm Kit (Right)		0	0	0	0	100	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Left Radius and Ulna	96	Human Left Radius and Ulna	A boring old human Left Radius and Ulna.	0	0	0	0	20	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Radius and Ulna	97	Human Left Radius and Ulna	A boring old human Left Radius and Ulna.	0	0	0	0	20	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Radius and Ulna	98	Bone Zone Fiber Mesh Forearm Kit (Left)		0	0	0	0	100	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Left Radius and Ulna	99	Bone Zone Fiber Mesh Forearm Kit (Left)		0	0	0	0	100	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Right Femur	100	Human Right Femur	A boring old human Right Femur.	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Femur	101	Human Right Femur	A boring old human Right Femur.	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Femur	102	Thunder Thighs Brushed Aluminum Femur (R)		0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Right Femur	103	Thunder Thighs Brushed Aluminum Femur (R)		0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Left Femur	104	Human Left Femur	A boring old human Left Femur.	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Femur	105	Human Left Femur	A boring old human Left Femur.	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Femur	106	Thunder Thighs Brushed Aluminum Femur (L)		0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Left Femur	107	Thunder Thighs Brushed Aluminum Femur (L)		0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Right Tibia and Fibula	108	Human Right Tibia and Fibula	A boring old human Right Tibia and Fibula.	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Tibia and Fibula	109	Human Right Tibia and Fibula	A boring old human Right Tibia and Fibula.	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Tibia and Fibula	110	Widdershins Carbon Fiber Shin Kit (R)		0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Right Tibia and Fibula	111	Widdershins Carbon Fiber Shin Kit (R)		0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Left Tibia and Fibula	112	Human Left Tibia and Fibula	A boring old human Left Tibia and Fibula.	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Tibia and Fibula	113	Human Left Tibia and Fibula	A boring old human Left Tibia and Fibula.	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Tibia and Fibula	114	Widdershins Carbon Fiber Shin Kit (L)		0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Left Tibia and Fibula	115	Widdershins Carbon Fiber Shin Kit (L)		0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Rib Cage	116	Human Rib Cage	A boring old human Rib Cage.	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Rib Cage	117	Human Rib Cage	A boring old human Rib Cage.	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Rib Cage	118	Apex RC-81 Unsplittable Sides		0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Rib Cage	119	Apex RC-81 Unsplittable Sides		0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Pelvis	120	Human Pelvis	A boring old human Pelvis.	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Pelvis	121	Human Pelvis	A boring old human Pelvis.	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Pelvis	122	Squat Rocket 2T (Wide)	Capable of withstanding 2 tons of repetitive downward force!	0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Pelvis	123	Squat Rocket 2T (Wide)	Capable of withstanding 2 tons of repetitive downward force!	0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Right Upper Arm	124	Human Right Upper Arm	A boring old human Right Upper Arm.	0	0	2	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Upper Arm	125	Human Right Upper Arm	A boring old human Right Upper Arm.	0	0	2	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Upper Arm	126	USMC BTA 155RA		0	0	0	3	20	0	0	0	10	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Right Upper Arm	127	USMC BTA 155RA		0	0	0	3	20	0	0	0	10	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Left Upper Arm	128	Human Left Upper Arm	A boring old human Left Upper Arm.	0	0	2	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Upper Arm	129	Human Left Upper Arm	A boring old human Left Upper Arm.	0	0	2	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Upper Arm	130	USMC BTA 155LA		0	0	0	3	20	0	0	0	10	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Left Upper Arm	131	USMC BTA 155LA		0	0	0	3	20	0	0	0	10	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Right Forearm	132	Human Right Forearm	A boring old human Right Forearm.	0	0	1	0	2	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Forearm	133	Human Right Forearm	A boring old human Right Forearm.	0	0	1	0	2	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Forearm	134	Apex FA-6000 "Vader" (Right)		0	0	0	2	20	0	40	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Right Forearm	135	Apex FA-6000 "Vader" (Right)		0	0	0	2	20	0	40	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Left Forearm	136	Human Left Forearm	A boring old human Left Forearm.	0	0	1	0	2	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Forearm	137	Human Left Forearm	A boring old human Left Forearm.	0	0	1	0	2	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Forearm	138	Apex FA-6000 "Vader" (Left)		0	0	0	2	20	0	40	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Left Forearm	139	Apex FA-6000 "Vader" (Left)		0	0	0	2	20	0	40	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Right Hand	140	Human Right Hand	A boring old human Right Hand.	0	0	1	0	0	0	20	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Hand	141	Human Right Hand	A boring old human Right Hand.	0	0	1	0	0	0	20	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Hand	142	Van Wailin' H80 Pro for Guitar and Harp (Right)		0	0	0	2	0	0	100	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Right Hand	143	Van Wailin' H80 Pro for Guitar and Harp (Right)		0	0	0	2	0	0	100	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Left Hand	144	Human Left Hand	A boring old human Left Hand.	0	0	1	0	0	0	20	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Hand	145	Human Left Hand	A boring old human Left Hand.	0	0	1	0	0	0	20	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Hand	146	Van Wailin' H80 Pro for Guitar and Harp (Left)		0	0	0	2	0	0	100	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Left Hand	147	Van Wailin' H80 Pro for Guitar and Harp (Left)		0	0	0	2	0	0	100	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Right Thigh	148	Human Right Thigh	A boring old human Right Thigh.	0	0	2	0	0	2	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Thigh	149	Human Right Thigh	A boring old human Right Thigh.	0	0	2	0	0	2	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Thigh	150	Apex Thigh Kit TK-040-A "Beartrap" (Right)		0	0	0	3	0	20	0	20	10	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Right Thigh	151	Apex Thigh Kit TK-040-A "Beartrap" (Right)		0	0	0	3	0	20	0	20	10	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Left Thigh	152	Human Left Thigh	A boring old human Left Thigh.	0	0	2	0	0	2	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Thigh	153	Human Left Thigh	A boring old human Left Thigh.	0	0	2	0	0	2	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Thigh	154	Apex Thigh Kit TK-040-A "Beartrap" (Left)		0	0	0	3	0	20	0	20	10	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Left Thigh	155	Apex Thigh Kit TK-040-A "Beartrap" (Left)		0	0	0	3	0	20	0	20	10	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Right Crus	156	Human Right Crus	A boring old human Right Crus.	0	0	1	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Crus	157	Human Right Crus	A boring old human Right Crus.	0	0	1	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Crus	158	Big Air Tipper III (Right)		0	0	0	2	0	20	0	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Right Crus	159	Big Air Tipper III (Right)		0	0	0	2	0	20	0	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Left Crus	160	Human Left Crus	A boring old human Left Crus.	0	0	1	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Crus	161	Human Left Crus	A boring old human Left Crus.	0	0	1	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Crus	162	Big Air Tipper III (Left)		0	0	0	2	0	20	0	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Left Crus	163	Big Air Tipper III (Left)		0	0	0	2	0	20	0	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Right Foot	164	Human Right Foot	A boring old human Right Foot.	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Foot	165	Human Right Foot	A boring old human Right Foot.	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Right Foot	166	Gibbon Opposable Foot (Right)		0	0	0	2	0	0	0	10	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Right Foot	167	Gibbon Opposable Foot (Right)		0	0	0	2	0	0	0	10	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Left Foot	168	Human Left Foot	A boring old human Left Foot.	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Foot	169	Human Left Foot	A boring old human Left Foot.	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Left Foot	170	Gibbon Opposable Foot (Left)		0	0	0	2	0	0	0	10	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Left Foot	171	Gibbon Opposable Foot (Left)		0	0	0	2	0	0	0	10	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Vocal Cords	172	Human Vocal Cords	A boring old human Vocal Cords.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Vocal Cords	173	Human Vocal Cords	A boring old human Vocal Cords.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Vocal Cords	174	Buzzword 7.1 Tracheal Speaker		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	10	10	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Vocal Cords	175	Buzzword 7.1 Tracheal Speaker		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	10	10	0	0	0	0	0	0	0	0	0	100	43	0	0
+ cat	Vocal Cord Augmentation	176	LaDeeDa C3C5 De-Baritoner		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Vocal Cord Augmentation	177	LaDeeDa C3C5 De-Baritoner		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Right Eye	178	Human Right Eye	A boring old human Right Eye.	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	10	10	0	0	0	10	5200	2258	0	1
+ cat	Right Eye	179	Human Right Eye	A boring old human Right Eye.	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	10	10	0	0	0	10	5200	2258	0	1
+ cat	Right Eye	180	Shepherd's Own Special Eyes (Orphan Blue) R		0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	85	85	1	1	1	90	100	43	0	0
+Perfect cat	Right Eye	181	Shepherd's Own Special Eyes (Orphan Blue) R		0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	85	85	1	1	1	90	100	43	0	0
+Human	Left Eye	182	Human Left Eye	A boring old human Left Eye.	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	10	10	0	0	0	10	5200	2258	0	1
+ cat	Left Eye	183	Human Left Eye	A boring old human Left Eye.	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	10	10	0	0	0	10	5200	2258	0	1
+ cat	Left Eye	184	Shepherd's Own Special Eyes (Orphan Blue) L		0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	85	85	1	1	1	90	100	43	0	0
+Perfect cat	Left Eye	185	Shepherd's Own Special Eyes (Orphan Blue) L		0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	85	85	1	1	1	90	100	43	0	0
+Human	Ears	186	Human Ears	A boring old human Ears.	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Ears	187	Human Ears	A boring old human Ears.	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Ears	188	Pitchmaster Lobotic Auralizer		0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Ears	189	Pitchmaster Lobotic Auralizer		0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Human	Jaw	190	Human Jaw	A boring old human Jaw.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Jaw	191	Human Jaw	A boring old human Jaw.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Jaw	192	RK-74 Cable Cutter Jaws		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	5	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Jaw	193	RK-74 Cable Cutter Jaws		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	5	0	0	0	0	0	0	0	0	0	100	43	0	0
+Lo cat	Face	194	Human Face	A boring old human Face.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Face	195	Human Face	A boring old human Face.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	0	0	0	0	0	0	0	5200	2258	0	1
+ cat	Face	196	Neopolitan Atmosphere Concealor		0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	15	20	0	0	0	15	15	0	0	0	0	100	43	0	0
+Perfect cat	Face	197	Neopolitan Atmosphere Concealor		0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	15	20	0	0	0	15	15	0	0	0	0	100	43	0	0
+ cat	Battery	198	Sammy Sung G7 Small Form Li-Ion 4500mAh 	Perfectly safe to install wherever it is you're putting batteries.	0	70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
+Perfect cat	Battery	199	Sammy Sung G7 Small Form Li-Ion 4500mAh 	Perfectly safe to install wherever it is you're putting batteries.	0	70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	43	0	0
